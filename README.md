@@ -1,4 +1,4 @@
-## AIML-PROJECTS
+## AIML projects
 
 This repository contains two AI/ML projects focused on building conversational agents:
 1. A simple chatbot to interact with users.
